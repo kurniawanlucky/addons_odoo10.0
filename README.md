@@ -1,0 +1,1 @@
+# addons_odoo10.0
